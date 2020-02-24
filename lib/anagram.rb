@@ -12,3 +12,4 @@ class Anagram
       w.split("").sort == @w.split("").sort
     end
   end
+end
